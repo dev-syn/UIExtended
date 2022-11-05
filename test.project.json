@@ -1,0 +1,13 @@
+{
+  "name": "ui-extended",
+  "tree": {
+    "$className": "DataModel",
+
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "UIExtended": {"$path": "lib"},
+        "testRunner": {"$path": "TestScripts/testRunner.client.lua"}
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+[[classOrder]]
+section = "UIObject"
+classes = ["Slider","UILayout"]
+
+[[classOrder]]
+classes = ["UIExtended"]
